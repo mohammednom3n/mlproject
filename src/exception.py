@@ -1,4 +1,3 @@
-print("Script is running")
 import sys
 import logging
 
